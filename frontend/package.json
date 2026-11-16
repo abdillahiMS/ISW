@@ -36,6 +36,7 @@
     "@playwright/test": "^1.64.0",
     "@prettier/plugin-xml": "^3.4.2",
     "@resvg/resvg-js": "^2.6.2",
+    "@types/node": "^26.6.6",
     "@vitejs/plugin-vue": "^6.0.10",
     "@vitest/coverage-v8": "^4.1.11",
     "@vitest/ui": "^4.1.11",
