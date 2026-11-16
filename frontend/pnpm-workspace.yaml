@@ -4,7 +4,7 @@ overrides:
   brace-expansion: "^5.0.12"
   esbuild: "^0.28.1"
   flatted: "^3.4.2"
-  follow-redirects: "^1.16.0"
+  follow-redirects: "^1.16.2"
   minimatch: "^10.2.3"
   picomatch: "^4.0.4"
   postcss: "^8.5.26"
@@ -14,9 +14,10 @@ overrides:
   yaml: "^2.8.3"
   js-cookie: "^3.0.7"
   form-data: "^4.0.6"
-  markdown-it: "^14.3.2"
+  markdown-it: "^14.3.3"
   katex: "^0.19.0"
   js-yaml: "^4.3.2"
+  eslint: "^10.15.0"
 allowBuilds:
   esbuild: true
 patchedDependencies:
