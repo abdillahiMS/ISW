@@ -47,7 +47,7 @@ jobs:
     needs: backend-lint-format-check
     uses: ./.github/workflows/backend-unit-tests.yml
     
-   backend-integration-tests:
+  backend-integration-tests:
     name: Backend
     needs: backend-unit-tests
     uses: ./.github/workflows/backend-integration-tests.yml
